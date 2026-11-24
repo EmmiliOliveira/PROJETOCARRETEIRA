@@ -1,0 +1,6 @@
+{
+  "name": "TBL App — Operação Carreteira",
+  "description": "Sistema inteligente de gestão de embarque carreteiro em balsas da Transportes Bertolini Ltda., com scanner de placas por IA, leitura de manifestos, balanceamento de estivagem e relatórios operacionais.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
